@@ -728,7 +728,7 @@ License not currently specified. If you'd like to use this code, please open an 
 
 ## 👤 Author
 
-**Swaraj Babu**
+**Sathwik**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Swarajbabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swarajbabu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-swarajvecha.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://swarajvecha.in)
