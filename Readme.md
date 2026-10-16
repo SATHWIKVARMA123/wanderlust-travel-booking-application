@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 Wanderlust
+# 🏡 Wanderlust 
 
 ### Discover a stay. Book it with confidence. Travel without the guesswork.
 
